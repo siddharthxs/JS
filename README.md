@@ -1,1 +1,1 @@
-# JS
+# Learning and practicing Javascript
