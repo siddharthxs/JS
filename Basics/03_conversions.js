@@ -45,8 +45,86 @@ let valueInNumber = Number(score)
 // ************************************** Operations ***********************************************
 
 
-let value = 5
+//let value = 5
 
-let negValue = -value
+//let negValue = -value
 
-console.log(negValue);
+//console.log(negValue);
+
+// let value = -86
+
+// let posValue = -value
+
+// console.log(posValue);
+
+// console.log(2+2);
+// console.log(2/2);
+// console.log(2*2);
+// console.log(2-2);
+// console.log(2**2);
+// console.log(2**3);
+// console.log(2%3);
+
+
+
+let str1 = "sid"
+let str2 = "dharth"
+
+let str3 = str1 + str2
+
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log("1" + 2 + 4);
+// console.log(1 + 2 + "4");
+// console.log("1" + "2");
+// console.log(1 + "2");
+
+// console.log( (2-5) / 8 * 4);
+
+
+// console.log(true);
+// console.log(+true);
+
+// console.log(+"");
+
+// let num1, num2 , num3
+
+// num1=num2=2
+// num3=num1+5
+
+
+
+// console.log(num1,num2,num3);
+
+// let gamecounter = 500;
+
+// gamecounter++;
+
+// console.log(gamecounter);
+
+
+//********************* JAVASCRIPT POSTFIX AND PREFIX INCREMENT OPERATOR *****************************
+
+
+// postfix
+
+
+x = 5
+y = x++
+
+console.log(`x:${x}, y:${y}`)
+
+// if we write operator after operand then it will return the value before incrementing and then increment the value
+// before incrementing .
+
+
+//prefix
+
+a = 100
+b = ++a
+
+console.log(`a:${a}  b:${b}`);
+
+
+// in prefix we used operators before the operand and it will return the value after incrementing 
