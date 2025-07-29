@@ -1,6 +1,6 @@
-let score = "33abc" 
+// let score = "33abc" 
 
-let valueInNumber = Number(score)
+// let valueInNumber = Number(score)
 
 //console.log(typeof score);
 
@@ -126,5 +126,49 @@ b = ++a
 
 console.log(`a:${a}  b:${b}`);
 
+c = 9866
+
+d = ++c
+
+q = 9866
+
+f = q++
+console.log(`e:${q} f:${f}`);
+
 
 // in prefix we used operators before the operand and it will return the value after incrementing 
+
+
+let isLoggedIn = ""
+
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+
+console.log(booleanIsLoggedIn)
+
+let score = "33abc" 
+
+let valueInNumber = Number(score)
+
+console.log(score);
+
+console.log(typeof score);
+
+console.log(
+    valueInNumber
+);
+
+console.log(typeof valueInNumber
+);
+
+let newNumber = "45649415496"
+
+let newstring = Symbol(newNumber)
+
+console.log(newstring);
+
+console.log(typeof newstring);
+
+
+
+
+
